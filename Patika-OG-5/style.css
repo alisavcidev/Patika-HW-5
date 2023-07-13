@@ -1,0 +1,45 @@
+.el-c {
+    text-align: center;
+}
+
+.b-wid {
+    width: 90%;
+    margin: auto;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1px;
+}
+
+.search {
+    width: 37%;
+    background-color: #7ee5da;
+}
+
+.link {
+    width: 20%;
+    background-color: #70CCC2;
+}
+
+.sub {
+    width: 42.8%;
+    background-color: #62B3AA;
+}
+
+.fs-s {
+    font-size: small;
+}
+
+.zero-mar {
+    margin: 0px;
+}
+
+.zero-martop {
+    margin-top: -17px;
+}
+
+.auto-pad {
+    padding: auto;
+}
